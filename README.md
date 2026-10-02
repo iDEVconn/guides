@@ -1,2 +1,2 @@
 # guides
-manual  and guides from idevconn and it-campus
+Manual  and Guides from idevconn and it-campus
